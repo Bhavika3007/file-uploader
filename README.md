@@ -1,4 +1,4 @@
-# Simple Flask File Uploader Backend
+# Simple File Uploader
 
 A lightweight **Flask backend** for uploading files to **AWS S3**, designed for easy deployment and demonstration of cloud integration.  
 This project allows uploading files via a frontend, stores them securely in S3, and provides a public URL for each uploaded file.
@@ -26,7 +26,7 @@ This project was built to:
 ---
 
 ## Folder Structure
-
+---
 file-uploader/
 ├─ app.py
 ├─ requirements.txt
@@ -36,7 +36,7 @@ file-uploader/
 ├─ README.md
 └─ templates/
 └─ index.html
-
+---
 ## Setup Steps
 
 ## Step 1: Setting up the Project Repository
