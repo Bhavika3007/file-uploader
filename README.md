@@ -42,8 +42,9 @@ file-uploader/
 
 ## Step 1: Setting up the Project Repository
 
-mkdir file-uploader
-cd file-uploader
+mkdir file-upload-backend
+mkdir file-upload-frontend
+
 
 ---
 
